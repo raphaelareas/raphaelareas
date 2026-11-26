@@ -122,3 +122,5 @@ Case studies for DTC and e-commerce brands: Amazon storefronts, ads, email, webs
 ---
 
 **Open to creative and product design work for DTC, e-commerce and tech brands.**
+
+<sub>Made with love and tokens.</sub>
